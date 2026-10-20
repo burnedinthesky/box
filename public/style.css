@@ -139,6 +139,12 @@ input[type="submit"] {
 	color: var(--dark);
 }
 
+.retention-note {
+	color: var(--muted);
+	text-align: center;
+	font-size: 0.82rem;
+}
+
 /* Upload progress area */
 #uploadArea {
 	display: flex;
