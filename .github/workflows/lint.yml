@@ -29,6 +29,9 @@ jobs:
       - name: Test build
         run: pnpm build
 
+      - name: Test uploads and expiry
+        run: pnpm test
+
   Format:
     name: Check formatting with Prettier
     runs-on: ubuntu-latest

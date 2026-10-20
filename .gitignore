@@ -134,3 +134,8 @@ password.json
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Cloudflare local state and secrets
+.wrangler/
+.dev.vars
+.dev.vars.*
