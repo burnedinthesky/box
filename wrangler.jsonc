@@ -1,7 +1,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "box",
-	"account_id": "13680db2ffabc2d3809c628d00fc6bdb",
+	"account_id": "0c3d71e8e655eff35074ed4734652bf7",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-10-20",
 	"workers_dev": true,
